@@ -1,31 +1,53 @@
+body {
+  background-color:black;
+}
 
-.btn {
-    width: 180px;
-    padding: 12px,0;
-    background-color:springgreen;
-    box-shadow: 0px 5px #279C56;
-    border-radius: 3px;
-    color: #fff;
-    font-size: 12px;
-    margin-bottom: 20px;
-    text-align: center;
-  }
+.header {
+  height:70px;
+  background-color:gold;
+  color:grey;
+}
 
+.header-logo {
+  font-size:63px;
+  margin-left:560px;
+}
   .item {
     background-color:cadetblue;
     color:black;
     padding:10px;
     margin:10px;
   }
-  h2 {
-    margin-left:140px;
+  h1 {
+    margin-left:240px;
+    color:honeydew;
+    margin-top:50px;
   }
-
+ 
+  h3{
+    color:khaki;
+  }
   img {
     
   
     image-rendering: -webkit-optimize-contrast;
   }
+
+  video {
+    margin-left:190px;
+  }
+   
+ .aiueo {
+   float:left;
+  margin-left:249px;
+ }
+
+ .kakikukeko {
+   margin-left:256px;
+ }
+
+ 
+ 
   
 
   
