@@ -1,6 +1,10 @@
-body {
-  background-color:black;
+.menu-icon {
+  background-color:transparent;
+  border:0px;
+  
 }
+
+
 
 .header {
   height:70px;
@@ -12,45 +16,106 @@ body {
   font-size:63px;
   margin-left:560px;
 }
-  .item {
-    background-color:cadetblue;
-    color:black;
-    padding:10px;
-    margin:10px;
-  }
+  
   h1 {
     margin-left:240px;
-    color:honeydew;
+    color:cyan;
     margin-top:50px;
   }
  
   h3{
     color:khaki;
   }
-  img {
+.menu-icon span {
+  background-color:black;
+  height:2px;
+  width:34px;
+  display:block;
+  margin-bottom:9px;
+
+
+}
+
+.menu-open {
+  background-color:black;
+  height:13px;
+  display:block;
+}
+ .menu-open .menu-icon span{
+      background-color:white;}
     
-  
-    image-rendering: -webkit-optimize-contrast;
-  }
+   p{
+     color:white;
+   }
 
-  video {
-    margin-left:190px;
-  }
+   .flexbox {
+    display: flex;
+    flex-direction: column;
+    margin-left:400px;
+    
    
- .aiueo {
-   float:left;
-  margin-left:249px;
- }
+    
+     
+   }
 
- .kakikukeko {
-   margin-left:256px;
- }
+   .flexbox img{
+     height:520px;
+     width:500px;
+    
+   }
 
- 
- 
+   
+  .main {
+    height:2000px;
+    width:1599px;
+    
+
+  }
+
+  .sent {
+    position: absolute; top: 920px;
+  }
+
+  .menbo{
+    position: absolute; top: 700px;
+    position: absolute; right: 130px;
+  }
+
+  .mint {
+    position: absolute; top: 910px;
+    position: absolute; right: 30px;
+  }
+  
+  .imaru {
+    position: absolute; top: 990px;
+  }
+
+  .lil{
+    position: absolute; top:200px;
+    position: absolute; right: 3px;
+  }
+
+  .nitta{
+    position: absolute; top:2000px;
+  }
+
+  .senntou{
+    position: absolute; top: 3000px;
+  }
+
+  .your{
+    position: absolute; top: 4000px;
+  }
+
+  .mendeli{
+    position: absolute; top: 5000px;
+  }
+
+  
   
 
-  
+
+
   
 
   
